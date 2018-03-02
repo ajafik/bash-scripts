@@ -16,4 +16,4 @@
 
 > file task.sh - Identifies the type of file task.sh is
 
-
+> man <command> - shows the amnual of usage of a particular linux command. eg. `man ls` : shows the manual of how to use `ls` linux commans
