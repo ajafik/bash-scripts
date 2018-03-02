@@ -14,4 +14,6 @@
 
 > which bash - Get the path to the executable of the interpreter on a linux terminal
 
+> file task.sh - Identifies the type of file task.sh is
+
 
